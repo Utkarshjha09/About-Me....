@@ -9,8 +9,8 @@
 - 🔭 Currently working with **MERN Stack, Machine Learning, and VLSI systems**
 - 🤝 Looking to collaborate on **AI/ML projects**, **Web Dev**, and **Hardware-Software integrations**
 - 🎯 Passionate about building innovative, efficient, and scalable tech solutions
-- 📫 Reach me at: **your-email@example.com**
-- 🌍 Based in: **[Your Location]**
+- 📫 Reach me at: **work.utkarshjha@gmail.com**
+- 🌍 Based in: **BHOPAL**
 
 ---
 
