@@ -1,13 +1,8 @@
-# Utkarsh-Jha
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Utkarsh%20Jha&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
-</p>
-
 <h1 align="center">Hi 👋,  This is Utkarsh Jha </h1>
-<h3 align="center">Data Scientist | MERN Stack Developer | VLSI Engineer</h3>
+<h3 align="center">Data Scientist | MERN Stack Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Data+Scientist+%7C+Full+Stack+Developer;VLSI+Engineer+%7C+Tech+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Data+Scientist+%7C+Full+Stack+Developer;Always+learning+new+technologies!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +12,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me.........
+
+```rust
+fn main() {
+    let _name = "Utkarsh Jha";
+    let _job = "Data Scientist | MERN Stack Developer";
+    let _location = "Bhopal, India";
+    let _company = "Open to Opportunities 🚀";
+}
+
+```
+
+---
 
 - 🔭 Currently working with **MERN Stack, Machine Learning, and VLSI systems**
 - 🤝 Looking to collaborate on **AI/ML projects**, **Web Dev**, and **Hardware-Software integrations**
@@ -30,6 +37,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Utkarshjha09&theme=github_dark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
@@ -67,10 +75,9 @@
 
 #### 🔬 Hardware & Electronics
 <p align="left">
-  <img src="https://img.shields.io/badge/Verilog-9cf?style=for-the-badge&logo=v&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/ESP-32-9cf?style=for-the-badge&logo=NodeMcu&logoColor=white" alt="ESP-32" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/VLSI-purple?style=for-the-badge&logo=microchip&logoColor=white" alt="VLSI" />
 </p>
 
 #### 🛠️ Development Tools & Platforms
@@ -80,6 +87,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ---
@@ -87,7 +95,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarshjha09&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Utkarshjha09&show_icons=true&theme=github_dark" alt="GitHub Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshjha09&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -96,18 +104,21 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utkarshjha09&theme=github_dark&utcOffset=5" alt="Productive Time Graph" />
+</p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarshjha09&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+
+
 ---
 
-### 📌 Pinned Projects
+### 🚀 My Projects  
 
-[![immersiafolio](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=immersiafolio&theme=github_dark)](https://github.com/Utkarshjha09/immersiafolio)  
-[![My-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=My-Portfolio&theme=github_dark)](https://github.com/Utkarshjha09/My-Portfolio)
-
-[![ESP32-Blynk-Notification-System](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=ESP32-Blynk-Notification-System&theme=github_dark)](https://github.com/Utkarshjha09/ESP32-Blynk-Notification-System)  
-[![FaceRecognitionSystem](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=FaceRecognitionSystem&theme=github_dark)](https://github.com/Utkarshjha09/FaceRecognitionSystem)
+| [![immersiafolio](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=immersiafolio&theme=github_dark)](https://github.com/Utkarshjha09/immersiafolio) | [![My-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=My-Portfolio&theme=github_dark)](https://github.com/Utkarshjha09/My-Portfolio) |
+| --- | --- |
+| [![ESP32-Blynk-Notification-System](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=ESP32-Blynk-Notification-System&theme=github_dark)](https://github.com/Utkarshjha09/ESP32-Blynk-Notification-System) | [![FaceRecognitionSystem](https://github-readme-stats.vercel.app/api/pin/?username=Utkarshjha09&repo=FaceRecognitionSystem&theme=github_dark)](https://github.com/Utkarshjha09/FaceRecognitionSystem) |
 
 ---
 
@@ -142,7 +153,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
