@@ -1,5 +1,5 @@
 # Utkarsh-Jha
-<h1 align="center">Hi 👋, I'm [Utkarsh Jha]</h1>
+<h1 align="center">Hi 👋,  This is Utkarsh Jha </h1>
 <h3 align="center">Data Scientist | MERN Stack Developer | VLSI Engineer</h3>
 
 ---
