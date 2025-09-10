@@ -51,6 +51,7 @@ fn main() {
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript" />
 </p>
 
 #### 🌐 Web Development (MERN Stack)
@@ -88,6 +89,7 @@ fn main() {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=Render&logoColor=white" alt="Render" />
 </p>
 
 ---
