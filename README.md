@@ -150,10 +150,14 @@ fn main() {
 > 🧠 _"Learning never exhausts the mind. It only ignites it."_  
 
 ### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Utkarshjha09/About-Me..../output/snake.svg" alt="Snake animation" />
-</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkarshjha09/About-Me..../output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkarshjha09/About-Me..../output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Utkarshjha09/About-Me..../output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
+</p>
 
 </div>
 
