@@ -150,7 +150,10 @@ fn main() {
 > 🧠 _"Learning never exhausts the mind. It only ignites it."_  
 
 ### 🐍 GitHub Contribution Snake
-![Snake animation](https://github.com/Utkarshjha09/Utkarshjha09/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Utkarshjha09/About-Me..../output/snake.svg" alt="Snake animation" />
+</p>
+
 
 </div>
 
